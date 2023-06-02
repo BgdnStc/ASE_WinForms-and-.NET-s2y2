@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\bin\Debug\Project_version_7.exe.config
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\bin\Debug\Project_version_7.exe
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\bin\Debug\Project_version_7.pdb
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.csproj.CopyComplete
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.exe
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.pdb
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.GoodsStockForm.resources
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.Menu.resources
+C:\Users\Bogdan\source\repos\Project_version_7\Project_version_7\obj\Debug\Project_version_7.SupplierForm.resources
