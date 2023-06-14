@@ -1,0 +1,16 @@
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.exe.config
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.exe
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\bin\Debug\ShopProject.pdb
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.AddProductForm.resources
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.Form1.resources
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.exe
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.pdb
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.csproj.CopyComplete
+C:\Users\Bogdan\source\repos\ShopProject\ShopProject\obj\Debug\ShopProject.ChartForm.resources
