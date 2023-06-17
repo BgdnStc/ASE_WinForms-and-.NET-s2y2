@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfReservation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reservation>
+    <Id>1</Id>
+    <RoomId>1</RoomId>
+    <CheckInDate>2023-09-19T03:50:54</CheckInDate>
+    <CheckOutDate>2023-09-21T03:50:54</CheckOutDate>
+    <Persons>3</Persons>
+  </Reservation>
+  <Reservation>
+    <Id>2</Id>
+    <RoomId>0</RoomId>
+    <CheckInDate>2023-10-15T03:51:32</CheckInDate>
+    <CheckOutDate>2023-06-20T03:51:32</CheckOutDate>
+    <Persons>1</Persons>
+  </Reservation>
+  <Reservation>
+    <Id>3</Id>
+    <RoomId>2</RoomId>
+    <CheckInDate>2023-12-13T04:50:58</CheckInDate>
+    <CheckOutDate>2023-12-25T04:50:58</CheckOutDate>
+    <Persons>5</Persons>
+  </Reservation>
+</ArrayOfReservation>

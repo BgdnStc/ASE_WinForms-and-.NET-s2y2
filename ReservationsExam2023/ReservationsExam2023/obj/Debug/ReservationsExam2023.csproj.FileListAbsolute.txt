@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\bin\Debug\ReservationsExam2023.exe.config
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\bin\Debug\ReservationsExam2023.exe
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\bin\Debug\ReservationsExam2023.pdb
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.AddRezervationForm.resources
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.Form1.resources
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.csproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.exe
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.pdb
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bogdan\source\repos\ReservationsExam2023\ReservationsExam2023\obj\Debug\ReservationsExam2023.csproj.CopyComplete
